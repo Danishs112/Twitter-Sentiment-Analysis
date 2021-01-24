@@ -2,5 +2,5 @@
 A web app used to parse user tweet and detect the sentiment of the tweets using amazon comprehend. The tweets are extracted using tweepy and amazon comprehend to detect the sentiment of the tweet. and based on the sentiment on the tweet it will recommend the video to the user.
 
 <h1>Working Demo</h1>
-Here is the <a href="https://youtu.be/rBy8VAIToUc">link of the web app.
+Here is the <a href="https://youtu.be/rBy8VAIToUc">link</a> of the web app.
 
